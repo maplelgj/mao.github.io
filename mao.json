@@ -42,11 +42,11 @@
 {"key":"csp_xpath_vip1280","name":"VIP电影(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/vip1280.json"},
 
 
-//{"key":"csp_xpath_cokemv","name":"Cokemv(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/cokemv.json"},
+{"key":"csp_xpath_cokemv","name":"Cokemv(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/cokemv.json"},
 
-//{"key":"csp_xpath_czspp","name":"厂长资源(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/czspp.json"},
+{"key":"csp_xpath_czspp","name":"厂长资源(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/czspp.json"},
 
-//{"key":"csp_xpath_zxzj2","name":"在线之家(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/zxzj2.json"},
+{"key":"csp_xpath_zxzj2","name":"在线之家(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/zxzj2.json"},
 
 {"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/555.json"},
 
