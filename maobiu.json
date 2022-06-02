@@ -1,19 +1,4 @@
 {
-# spider
-# 00.官方jar
-//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-
-# 01.🐼 (非官方) 缝合jar
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xp/custom_spider.jar",
-
-# 02.🦖 (非官方) 唐三大佬维护接口:
-# Github --> https://github.com/Tangsan99999/Tangsan99999.github.io
-
-# 03.🥒 (非官方) 小黄瓜大佬 XBiubiuLA.jar:
-# Github --> https://github.com/lite-cucumber/CatVodTVSpider
-# 套Biubiu+LiteApple规则
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/XBiubiuLA.jar",
-
  "spider":"https://gitee.com/maplelgj/tv/raw/master/XBiubiu.jar.jar",     
 //"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider.jar",
 
@@ -23,9 +8,6 @@
 
 
 "sites":[
-## 03.🥒(非官方)小黄瓜大佬 套Biubiu+LiteApple规则
-## --> spider 改 "spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/XBiubiuLA.jar",
-//{"key":"LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 
 {"key":"csp_xpath_lib","name":"LIBVIO(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/libvio.json"},
 
@@ -142,7 +124,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-# type1 聚合.并发.轮询
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"bilibili","type":1,"url":"https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=","ext":{"flag":["bilibili"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
@@ -174,7 +155,7 @@
 {"name":"喵派对资源3","type":1,"url":"https://vip.aiaine.com/api/?key=fOWaGgFU45zlIjvbHI&url=","ext":{"flag":["ltnb","renrenmi"]}},
 {"name":"喵派对资源2","type":1,"url":"https://svip.iremind.me/api/?key=A5Db8HF8c8FSIOR6R1&url=","ext":{"flag":["renrenmi","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","sohu"]}},
 {"name":"leduotv","type":1,"url":"https://api.leduotv.com/wp-api/getvodurl.php?vid=","ext":{"flag":["leduo"]}},
-# type0 手动解析
+
 {"name":"OJBK","type":0,"url":"https://jmwl.qd234.cn/v/?v=","ext":{"flag":["ltnb","renrenmi","rx","xfyun","muxm3u8","xigua","xueren","qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","bilibili","哔哩哔哩","哔哩","pptv","PPTV","sohu","letv"]}},
 {"name":"M117","type":0,"url":"http://1.117.152.239:39000/?url="},
 {"name":"zui","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
