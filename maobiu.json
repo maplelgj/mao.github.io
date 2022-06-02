@@ -1,11 +1,10 @@
 {
  
- "spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/XBiubiuLA.jar",
- //"spider":"https://gitee.com/maplelgj/tv/raw/master/XBiubiu.jar",     
+ // "spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/XBiubiuLA.jar",
+"spider":"https://gitee.com/maplelgj/tv/raw/master/XBiubiu.jar",     
 //"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider.jar",
 
 
-# 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 
 
@@ -122,10 +121,12 @@
 //{"key":"csp_biubiu_维奇动漫","name":"🥒维奇动漫(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/维奇动漫.json"},
 
 
-"parses":[
+"parses": [
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+
+
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"bilibili","type":1,"url":"https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=","ext":{"flag":["bilibili"]}},
 {"name":"leduo","type":1,"url":"https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=","ext":{"flag":["leduo"]}},
