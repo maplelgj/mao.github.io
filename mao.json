@@ -42,6 +42,11 @@
 
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/zxzj2.json"},
 
+{"key":"wabc(腾讯直采)","name":"腾讯直采(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+
+{"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},    
+   
+    
 {"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/555.json"},
 
 {"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/naifeiorg.json"},
@@ -84,9 +89,6 @@
     
     
     
-{"key":"wabc(腾讯直采)","name":"腾讯直采(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-
-{"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},    
 
  //{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 
