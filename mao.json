@@ -1,12 +1,10 @@
 {
 
-//"spider":https://gitee.com/maplelgj/tv/raw/master/custom_spide-1.jar",
-//"spider": "https://jar1234.coding.net/p/m/d/m/git/raw/master/custom_spider_0330.jar",
-//"spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar",
 //"spider": "https://tangsan99999.github.io/custom_spider.jar",
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/XBiubiuLA.jar",
-"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider.jar",
 //"spider": "https://maplelgj.github.io/XP/custom_spider.jar",
+    
+// "spider":"https://gitee.com/maplelgj/tv/raw/master/XBiubiu.jar.jar",     
+"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider.jar",
 
 
 "sites": [ 
@@ -26,9 +24,6 @@
 //{"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
     
 
-
-
-
 {"key":"csp_xpath_lib","name":"LIBVIO(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/libvio.json"},
 
 {"key":"csp_xpath_ddg","name":"达达龟(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dadagui.json"},
@@ -41,7 +36,6 @@
 
 {"key":"csp_xpath_vip1280","name":"VIP电影(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/vip1280.json"},
 
-
 {"key":"csp_xpath_cokemv","name":"Cokemv(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/cokemv.json"},
 
 {"key":"csp_xpath_czspp","name":"厂长资源(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/czspp.json"},
@@ -49,7 +43,6 @@
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/zxzj2.json"},
 
 {"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/555.json"},
-
 
 {"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/naifeiorg.json"},
 
@@ -70,13 +63,11 @@
 
 {"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(XPath)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dandanzan10.json"},
 
-
 {"key":"csp_xpath_pianku","name":"片库(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianku.json"},
 
 {"key":"csp_xpath_lranc","name":"天天影视(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/lranc.json"},
 
 {"key":"csp_xpath_pianba","name":"片吧(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianba.json"},
-
 
 {"key": "csp_xpath_jpys","name": "极品影视(XPath)","type": 3,"api": "csp_XPath","searchable":1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/maplelgj/tv/raw/master/xpath/jpys.json"},
 
@@ -89,14 +80,7 @@
 {"key":"csp_xpath_miaomiao","name":"喵喵影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/miaomiao.json"},
 
 {"key":"csp_xpath_dmw","name":"动漫岛(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dmw.json"},
-
-
-    
-    
-{"key":"csp_biubiu_YYDS影院","name":"YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/YYDS影院.json"},   
- 
-{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://github.com/YuanHsing/OneClickRun/raw/master/xb/剧白白-蓝光.json"},
-    
+  
     
     
     
@@ -110,7 +94,6 @@
  
 // {"key": "qilinzyz","name": "麒麟资源","type": 0,"api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml/","playUrl": ""},
  
-
 // {"key": "lehootv","name": "乐活资源","type": 0,"api": "https://lehootv.com/api.php/provide/vod/at/xml/","playUrl": ""},
 
  // {"key": "wuzy9","name": "无尽资源","type": 0,"api": "https://wuzy9.com/api.php/provide/vod/at/xml/","playUrl": ""},
@@ -123,8 +106,6 @@
 {"key":"csp_appysv2_迪迪影院","name":"迪迪影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
 
 {"key":"csp_appysv2_影视大全","name":"影视大全(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod"},
-
-//{"key":"csp_AliPanSou","name":"喵狸盘搜（仅搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"}
 
