@@ -86,17 +86,17 @@
     
     
 
-{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
+//{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 
- {"key": "zycaiji","name": "M3U8TV资源","type": 0,"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/","playUrl": ""}, 
+ //{"key": "zycaiji","name": "M3U8TV资源","type": 0,"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/","playUrl": ""}, 
  
- {"key": "qilinzyz","name": "麒麟资源","type": 0,"api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml/","playUrl": ""},
+ //{"key": "qilinzyz","name": "麒麟资源","type": 0,"api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml/","playUrl": ""},
  
- {"key": "lehootv","name": "乐活资源","type": 0,"api": "https://lehootv.com/api.php/provide/vod/at/xml/","playUrl": ""},
+ //{"key": "lehootv","name": "乐活资源","type": 0,"api": "https://lehootv.com/api.php/provide/vod/at/xml/","playUrl": ""},
 
  {"key": "wuzy9","name": "无尽资源","type": 0,"api": "https://wuzy9.com/api.php/provide/vod/at/xml/","playUrl": ""},
 
-{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+//{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
   
   
 //{"key":"csp_AliPanSou","name":"🐼喵狸盘搜（仅支持搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
