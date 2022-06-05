@@ -2,26 +2,27 @@
 
 //"spider": "https://tangsan99999.github.io/custom_spider.jar",
 //"spider": "https://maplelgj.github.io/XP/custom_spider.jar",
-    
 // "spider":"https://gitee.com/maplelgj/tv/raw/master/XBiubiu.jar.jar",     
-"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider.jar",
+"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider-mao.jar",
 
 
 "sites": [ 
 
-//{"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
-//{"key":"csp_CZSPP","name":"厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_CZSPP","name":"厂长资源(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 
-//{"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+    
+{"key":"csp_Buka","name":"真不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 
-//{"key":"csp_Lgyy","name":"蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+{"key":"csp_Lgyy","name":"蓝光影院(SP)","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 
 //{"key":"csp_DiDuan","name":"低端影视(SP)","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":1},
 
 //{"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-//{"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "LiteApple","name": "小苹果","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1},
     
 
 {"key":"csp_xpath_lib","name":"LIBVIO(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/libvio.json"},
@@ -47,67 +48,56 @@
 {"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},    
    
     
-{"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/555.json"},
+//{"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/555.json"},
 
-{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/naifeiorg.json"},
+//{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/naifeiorg.json"},
 
-{"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/yanet.json"},
+//{"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/yanet.json"},
 
-{"key":"csp_xpath_so2","name":"淘剧鸭(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/so2.json"},
+//{"key":"csp_xpath_so2","name":"淘剧鸭(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/so2.json"},
 
-{"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPath)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/hdmoli.json"},
+//{"key":"csp_xpath_Hdmoli","name":"Hdmoli(XPath)","type":3,"api":"csp_XPathHdmoli","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/hdmoli.json"},
 
-{"key":"Jumi","name":"剧迷TV(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/Jumi.json"},
+//{"key":"Jumi","name":"剧迷TV(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/Jumi.json"},
 
+//{"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(XPath)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dandanzan10.json"},
 
+//{"key":"csp_xpath_pianku","name":"片库(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianku.json"},
 
+//{"key":"csp_xpath_lranc","name":"天天影视(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/lranc.json"},
 
+//{"key":"csp_xpath_pianba","name":"片吧(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianba.json"},
 
+//{"key": "csp_xpath_jpys","name": "极品影视(XPath)","type": 3,"api": "csp_XPath","searchable":1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/maplelgj/tv/raw/master/xpath/jpys.json"},
 
+//{"key":"csp_xpath_6d","name":"六度影院(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/6dtv.json"},
 
-
-{"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(XPath)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dandanzan10.json"},
-
-{"key":"csp_xpath_pianku","name":"片库(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianku.json"},
-
-{"key":"csp_xpath_lranc","name":"天天影视(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/lranc.json"},
-
-{"key":"csp_xpath_pianba","name":"片吧(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianba.json"},
-
-{"key": "csp_xpath_jpys","name": "极品影视(XPath)","type": 3,"api": "csp_XPath","searchable":1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/maplelgj/tv/raw/master/xpath/jpys.json"},
-
-{"key":"csp_xpath_6d","name":"六度影院(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/6dtv.json"},
-
-{"key":"csp_xpath_juhuang","name":"剧荒TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/juhuang.json"},
+//{"key":"csp_xpath_juhuang","name":"剧荒TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/juhuang.json"},
 
 //{"key":"csp_xpath_auete","name":"Auete影视(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/auete.json"},
 
-{"key":"csp_xpath_miaomiao","name":"喵喵影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/miaomiao.json"},
+//{"key":"csp_xpath_miaomiao","name":"喵喵影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/miaomiao.json"},
 
-{"key":"csp_xpath_dmw","name":"动漫岛(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dmw.json"},
+//{"key":"csp_xpath_dmw","name":"动漫岛(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dmw.json"},
   
     
     
     
 
- //{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
+{"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 
- // {"key": "zycaiji","name": "M3U8TV资源","type": 0,"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/","playUrl": ""}, 
+ {"key": "zycaiji","name": "M3U8TV资源","type": 0,"api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml/","playUrl": ""}, 
  
-// {"key": "qilinzyz","name": "麒麟资源","type": 0,"api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml/","playUrl": ""},
+ {"key": "qilinzyz","name": "麒麟资源","type": 0,"api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml/","playUrl": ""},
  
-// {"key": "lehootv","name": "乐活资源","type": 0,"api": "https://lehootv.com/api.php/provide/vod/at/xml/","playUrl": ""},
+ {"key": "lehootv","name": "乐活资源","type": 0,"api": "https://lehootv.com/api.php/provide/vod/at/xml/","playUrl": ""},
 
- // {"key": "wuzy9","name": "无尽资源","type": 0,"api": "https://wuzy9.com/api.php/provide/vod/at/xml/","playUrl": ""},
+ {"key": "wuzy9","name": "无尽资源","type": 0,"api": "https://wuzy9.com/api.php/provide/vod/at/xml/","playUrl": ""},
 
- //{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
   
   
- 
-
-{"key":"csp_appysv2_迪迪影院","name":"迪迪影院(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
-
-{"key":"csp_appysv2_影视大全","name":"影视大全(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.269w.com/api.php/v1.vod"},
+{"key":"csp_AliPanSou","name":"🐼喵狸盘搜（仅支持搜索）","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"}
 
