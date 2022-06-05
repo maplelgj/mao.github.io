@@ -16,7 +16,10 @@
  
 {"key": "奈落影院","name": "奈落影院(SP)","type": 3,"api": "csp_Newfii","searchable": 1,"quickSearch": 1, "filterable": 1},
  
- 
+{"key":"wabc(腾讯直采)","name":"腾讯直采(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+
+{"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},  
+
 {"key":"csp_xpath_ddg","name":"达达龟(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dadagui.json"},
 
 {"key":"csp_xpath_lib","name":"LIBVIO(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/libvio.json"},
@@ -26,6 +29,7 @@
 {"key":"csp_XPath_bidiys","name":"哔嘀影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/bidiys2.json"},
 
 {"key":"csp_xpath_jbb","name":"剧白白(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/jubaibai.json"},
+{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/剧白白-蓝光.json"},
 
 {"key":"csp_xpath_vip1280","name":"VIP电影(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/vip1280.json"},
 
@@ -37,9 +41,8 @@
 
 {"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/555.json"},
 
-{"key":"wabc(腾讯直采)","name":"腾讯直采(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
+ {"key":"csp_xpath_pianku","name":"片库(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianku.json"},
 
-{"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},  
 
  
 //{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/在线之家.json"},
@@ -47,7 +50,6 @@
 //{"key":"csp_biubiu_奈落影院","name":"奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/奈落影院.json"},
 //{"key":"csp_biubiu_达达龟","name":"达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/达达龟.json"},
 //{"key":"csp_biubiu_乐猪影视","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/乐猪影视.json"},
-{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白-蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/剧白白-蓝光.json"},
 //{"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/哔嘀影视.json"},
 //{"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/双十电影.json"},
 //{"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/骚火电影.json"},
@@ -57,10 +59,10 @@
 //{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/555电影.json"},
 //{"key":"csp_biubiu_555资源","name":"555资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/555资源.json"},
 //{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/厂长资源-蓝光.json"}, 
-{"key":"csp_biubiu_蓝光影视","name":"蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/蓝光影视.json"},
+//{"key":"csp_biubiu_蓝光影视","name":"蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/蓝光影视.json"},
 //{"key":"csp_biubiu_GIMY影视","name":"GIMY影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/GIMY影视.json"},
 //{"key":"csp_biubiu_GimyTV","name":"GimyTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/GimyTV.json"},
-{"key":"csp_biubiu_YYDS影院","name":"YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/YYDS影院.json"},
+//{"key":"csp_biubiu_YYDS影院","name":"YYDS影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/YYDS影院.json"},
 //{"key":"csp_biubiu_鸭奈飞","name":"鸭奈飞(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/鸭奈飞.json"},
 //{"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/影视工厂.json"},
 //{"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/天空资源.json"},
@@ -74,23 +76,19 @@
 //{"key":"csp_biubiu_七年影视","name":"七年影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/七年影视.json"},
 
  
-{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/naifeiorg.json"},
+//{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/naifeiorg.json"},
 
-{"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/yanet.json"},
+//{"key":"csp_xpath_yanetflix","name":"鸭奈飞(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/yanet.json"},
 
-{"key":"csp_xpath_so2","name":"淘剧鸭(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/so2.json"},
+//{"key":"csp_xpath_so2","name":"淘剧鸭(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/so2.json"},
 
-{"key":"csp_xpath_pianku","name":"片库(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianku.json"},
+//{"key":"csp_xpath_lranc","name":"天天影视(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/lranc.json"},
 
-{"key":"csp_xpath_lranc","name":"天天影视(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/lranc.json"},
+//{"key": "csp_xpath_jpys","name": "极品影视(XPath)","type": 3,"api": "csp_XPath","searchable":1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/maplelgj/tv/raw/master/xpath/jpys.json"},
 
-{"key":"csp_xpath_pianba","name":"片吧(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianba.json"},
+//{"key":"csp_xpath_6d","name":"六度影院(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/6dtv.json"},
 
-{"key": "csp_xpath_jpys","name": "极品影视(XPath)","type": 3,"api": "csp_XPath","searchable":1,"quickSearch": 1,"filterable": 0,"ext": "https://gitee.com/maplelgj/tv/raw/master/xpath/jpys.json"},
-
-{"key":"csp_xpath_6d","name":"六度影院(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/6dtv.json"},
-
-{"key":"csp_xpath_juhuang","name":"剧荒TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/juhuang.json"},
+//{"key":"csp_xpath_juhuang","name":"剧荒TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/juhuang.json"},
 
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 
@@ -104,9 +102,12 @@
 
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
  
+{"key":"酷扑(人人迷)","name":"酷扑(人人迷)(优)","type":1,"api":"https://www.kupu.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+ 
 {"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 
- 
+{"key":"csp_xpath_pianba","name":"片吧(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianba.json"},
+
 {"key":"csp_biubiu_小强迷","name":"小强迷(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/BiuBiu/小强迷.json"}
  ],
 
