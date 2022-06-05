@@ -43,7 +43,9 @@
 
 {"key":"csp_xpath_pianku","name":"片库(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/pianku.json"},
 
- {"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
+{"key":"csp_xpath_dandanzan10","name":"蛋蛋赞(XPath)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dandanzan10.json"},
+
+{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 
 
  
