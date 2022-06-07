@@ -9,10 +9,11 @@
 
 "sites":[
  
-{"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
  
 {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-
+ 
+{"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+ 
 {"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
  
 {"key": "奈落影院","name": "奈落影院(SP)","type": 3,"api": "csp_Newfii","searchable": 1,"quickSearch": 1, "filterable": 1},
@@ -21,18 +22,25 @@
 
 {"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},  
 
-{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/剧白白-蓝光.json"},
+{"key":"csp_xpath_ddg","name":"达达龟(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/dadagui.json"},
+{"key":"csp_xpath_lib","name":"LIBVIO(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/libvio.json"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/lezhutv.json"},
+{"key":"csp_XPath_bidiys","name":"哔嘀影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/bidiys2.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/jubaibai.json"},
+{"key":"csp_xpath_cokemv","name":"Cokemv(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/cokemv.json"},{"key":"csp_xpath_czspp","name":"厂长资源(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/maplelgj/tv/raw/master/xpath/czspp.json"},
+
+//{"key":"csp_biubiu_剧白白-蓝光","name":"剧白白(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/剧白白-蓝光.json"},
 //{"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/在线之家.json"},
-{"key":"csp_biubiu_COKEMV","name":"COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/COKEMV.json"},
-{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/LIBVIO.json"},
+//{"key":"csp_biubiu_COKEMV","name":"COKEMV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/COKEMV.json"},
+//{"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/LIBVIO.json"},
 {"key":"csp_biubiu_伊雪湾","name":"伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/伊雪湾.json"},
 //{"key":"csp_biubiu_奈落影院","name":"奈落影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/奈落影院.json"},
-{"key":"csp_biubiu_达达龟","name":"达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/达达龟.json"},
-{"key":"csp_biubiu_乐猪影视","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/乐猪影视.json"},
-{"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/哔嘀影视.json"},
-{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/555电影.json"},
-{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/厂长资源-蓝光.json"}, 
-{"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/双十电影.json"},
+//{"key":"csp_biubiu_达达龟","name":"达达龟(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/达达龟.json"},
+//{"key":"csp_biubiu_乐猪影视","name":"乐猪影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/乐猪影视.json"},
+//{"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/哔嘀影视.json"},
+//{"key":"csp_biubiu_555电影","name":"555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/555电影.json"},
+//{"key":"csp_biubiu_厂长资源-蓝光","name":"厂长资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/厂长资源-蓝光.json"}, 
+//{"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/双十电影.json"},
 {"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/骚火电影.json"},
 {"key":"csp_biubiu_莫扎兔","name":"莫扎兔(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/莫扎兔.json"},
 {"key":"csp_biubiu_周末电影","name":"周末电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/周末电影.json"},
