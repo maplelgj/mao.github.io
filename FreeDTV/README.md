@@ -9,7 +9,7 @@
 
 云插件接口：  https://maplelgj.github.io/FreeDTV/webPlugNavigation.json
 
-VIP解析接口：  https://maplelgj.github.io/FreeDTV/FreeD/vipParse.json
+VIP解析接口：  https://maplelgj.github.io/FreeDTV/vipParse.json
 
 
 
