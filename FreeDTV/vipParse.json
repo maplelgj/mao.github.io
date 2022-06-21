@@ -1,10 +1,31 @@
 {
   "data": [
+    
+        {
+      "id": 19,
+      "name": "线路m9",
+      "ad": "no",
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
+    },
+    
+        {
+      "id": 19,
+      "name": "Pro",
+      "ad": "no",
+      "url": "http://api.vip123kan.vip/?url="
+    },    
+
+            {
+      "id": 19,
+      "name": "Pro",
+      "ad": "no",
+      "url": "http://api.vip123kan.vip/?url="
+    },   
     {
       "id": 19,
-      "name": "自定义1",
+      "name": "renrenmi2",
       "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+      "url": "https://a.dxzj88.com/jxrrm/jiami.php?url="
     },
     {
       "id": 19,
