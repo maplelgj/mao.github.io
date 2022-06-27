@@ -23,8 +23,6 @@
  
 {"key":"Kuaikan","name":"快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
  
-//{"key": "奈落影院","name": "奈落影院(SP)","type": 3,"api": "csp_Newfii","searchable": 1,"quickSearch": 1, "filterable": 1},
- 
 {"key":"wabc(腾讯直采)","name":"腾讯直采(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 
 {"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},  
