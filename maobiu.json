@@ -15,6 +15,10 @@
  
 {"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
  
+{"key":"csp_Kunyu77","name":"七七2(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+ 
+{"key":"csp_CZSPP","name":"厂长资源(SP)","type":3,"api":"csp_ColaCat","searchable":1,"quickSearch":1,"filterable":0,},
+
 {"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
  
 {"key":"LiteApple","name":"小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -27,8 +31,9 @@
 
 {"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},  
 
-{"key":"csp_xpath_jbb","name":"剧白白(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/jubaibai.json"},
+ 
 {"key":"csp_xpath_cokemv","name":"Cokemv(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/cokemv.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/jubaibai.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/dadagui.json"},
 {"key":"csp_xpath_lib","name":"LIBVIO(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/libvio.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/XP/lezhutv.json"},
