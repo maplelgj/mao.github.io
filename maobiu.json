@@ -5,7 +5,9 @@
  //"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider-99.jar",
  //"spider":"https://tangsan99999.github.io/custom_spider.jar",
  
-"spider":"https://maplelgj.github.io/custom_spider-ts.jar",
+//"spider":"https://maplelgj.github.io/custom_spider-ts.jar",
+
+"spider":"https://maplelgj.github.io/doraAmen.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
@@ -18,6 +20,10 @@
  
 {"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
  
+{"key":"奈落影院","name":"奈落影院","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
   
 {"key":"Libvio","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
@@ -28,7 +34,6 @@
  
 // {"key": "csp_CZSPP","name":"厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 
- 
 //{"key": "csp_AliPanSou"  ,"name":"阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"wabc(腾讯直采)","name":"腾讯直采(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
