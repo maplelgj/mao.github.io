@@ -2,12 +2,9 @@
 //"spider":"https://maplelgj.github.io/custom_spider-673.jar",
 //"spider":"https://maplelgj.github.io/custom_spider-xm.jar",
  //"spider":"https://maplelgj.github.io/custom_spider-99.jar",
- //"spider":"https://gitee.com/maplelgj/tv/raw/master/custom_spider-99.jar",
- //"spider":"https://tangsan99999.github.io/custom_spider.jar",
- 
-//"spider":"https://maplelgj.github.io/custom_spider-ts.jar",
 
-"spider":"https://maplelgj.github.io/doraAmen.jar",
+"spider":"https://maplelgj.github.io/custom_spider-ts.jar",
+
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
@@ -19,10 +16,8 @@
 {"key":"csp_Cokemv","name":"Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
  
 {"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
- 
-{"key":"奈落影院","name":"奈落影院","type":3,"api":"csp_Newfii","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
   
