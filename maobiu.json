@@ -23,26 +23,23 @@
 {"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
  
 {"key": "csp_CZSPP","name":"厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
-
  
+{"key":"csp_Buka","name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_Auete"         ,"name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key": "360_spider","name":"360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+
 {"key":"csp_Kuaikan"       ,"name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ikan"          ,"name":"爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kmys"          ,"name":"酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Auete"         ,"name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Buka"          ,"name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DiDuan"        ,"name":"低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
   
 //{"key":"Libvio","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
-   
-{"key": "360_spider","name":"360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-  
 //{"key": "csp_Qicui" ,"name":"奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
- 
-
 //{"key": "csp_AliPanSou"  ,"name":"阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"wabc(腾讯直采)","name":"腾讯直采(官)","type":1,"api":"https://wabc.ml/mao/1.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
-
 {"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},  
 
 {"key":"csp_xpath_cokemv","name":"Cokemv(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/cokemv.json"},
