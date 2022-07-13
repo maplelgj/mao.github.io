@@ -1,9 +1,10 @@
 {
 //"spider":"https://maplelgj.github.io/custom_spider-673.jar",
 //"spider":"https://maplelgj.github.io/custom_spider-xm.jar",
- //"spider":"https://maplelgj.github.io/custom_spider-99.jar",
+//"spider":"https://maplelgj.github.io/custom_spider-99.jar",
+//"spider":"https://maplelgj.github.io/custom_spider-ts.jar",
 
-"spider":"https://maplelgj.github.io/custom_spider-ts.jar",
+ "spider":"https://maplelgj.github.io/spider2207.jar",
 
 
 
@@ -17,17 +18,26 @@
  
 {"key": "csp_77","name": "七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-//{"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"LiteApple","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Zxzj","name":"在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
+ 
+{"key": "csp_CZSPP","name":"厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
+
+ 
+{"key":"csp_Kuaikan"       ,"name":"快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_ikan"          ,"name":"爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Kmys"          ,"name":"酷猫影视","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Auete"         ,"name":"Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Buka"          ,"name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DiDuan"        ,"name":"低端影视","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable":0},
   
-{"key":"Libvio","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Libvio","name":"Libvio(SP)","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
    
 {"key": "360_spider","name":"360影视(SP)","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
   
 //{"key": "csp_Qicui" ,"name":"奇粹影视","type":3,"api":"csp_Qicui","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
  
-//{"key": "csp_CZSPP","name":"厂长资源","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":0},
 
 //{"key": "csp_AliPanSou"  ,"name":"阿里喵搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 
@@ -35,24 +45,24 @@
 
 {"key":"wabc(爱奇艺直采)","name":"爱奇艺直采(官)","type":1,"api":"https://wabc.ml/mao/2.php/provide/vod/","searchable":1,"quickSearch":1},  
 
-{"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://maplelgj.github.io/XP/88kanqiu.json"}, 
 {"key":"csp_xpath_cokemv","name":"Cokemv(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/cokemv.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/jubaibai.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/dadagui.json"},
 {"key":"csp_xpath_lib","name":"LIBVIO(XPath)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/libvio.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPath)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/XP/lezhutv.json"},
 {"key":"csp_XPath_bidiys","name":"哔嘀影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/XP/bidiys2.json"},
+{"key":"csp_xpath_jLgyy","name":"蓝光影院(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/lgyy.json"},
+{"key":"csp_xpath_vip1280","name":"VIP电影(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/XP/vip1280.json"},
+{"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/555.json"},
+{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/naifeiorg.json"},
+{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 {"key":"csp_biubiu_伊雪湾","name":"伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/伊雪湾.json"},
 {"key":"csp_biubiu_蓝光影视","name":"蓝光影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/蓝光影视.json"},
 {"key":"csp_biubiu_天空资源","name":"天空资源(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/天空资源.json"},
-{"key":"csp_xpath_vip1280","name":"VIP电影(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/XP/vip1280.json"},
 {"key":"csp_biubiu_特狗影视","name":"特狗影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/Xbiubiu/特狗影视.json"},
-{"key":"csp_xpath_naifeiorg","name":"奈飞中文(XPath)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/naifeiorg.json"},
-{"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
-{"key":"csp_xpath_555","name":"555影视(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maplelgj.github.io/XP/555.json"},
-{"key":"csp_xpath_czspp","name":"厂长资源(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/XP/czspp.json"}
+{"key":"csp_xpath_czspp","name":"厂长资源(XPath)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maplelgj.github.io/XP/czspp.json"}, 
+{"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://maplelgj.github.io/XP/88kanqiu.json"}
 
-  
   
   
   
