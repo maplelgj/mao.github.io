@@ -50,7 +50,7 @@
 {"key":"csp_appysv2_粉象视界","name":"粉象视界(优)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 
 
-{"key": "csp_xpath_88kanqiu","name": "dj看球","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://maplelgj.github.io/XP/dj看球.json"}
+{"key": "csp_xpath_88kanqiu","name": "dj看球","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://maplelgj.github.io/XP/dj看球.json"},
 {"key": "csp_xpath_88kanqiu","name": "球赛直播","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://maplelgj.github.io/XP/88kanqiu.json"}
 
  
